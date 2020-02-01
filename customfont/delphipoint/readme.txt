@@ -1,0 +1,1 @@
+only supports UPPERCASES, no numbers or symbols
